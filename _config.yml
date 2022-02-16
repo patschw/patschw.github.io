@@ -84,8 +84,8 @@ author:
   avatar           : "website_avatar.png"
   bio              : "PhD candidate \n computational communication research | political communication | computational social science | natural language processing | interested in complexity science"
   location         : "Munich"
-  employer         :
-  pubmed           : "#https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "LMU Munich"
+  pubmed           : # "#https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "patrick.schwabl@ifkw.lmu.de"
   researchgate     :  https://www.researchgate.net/profile/Patrick_Schwabl
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  LMU              : "https://www.ls1.ifkw.uni-muenchen.de/personen/wiss_ma/schwabl/index.html"
 
 
 # Reading Files
