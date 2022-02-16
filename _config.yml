@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Patrick Schwabl"
   avatar           : "profile.png"
-  bio              : "Research assistant @ifkw_lmu | political communication | computational communication science | natural language processing | interested in complexity science"
-  location         : "Location"
+  bio              : "PhD candidate \n computational communication research | political communication | computational social science | natural language processing | interested in complexity science"
+  location         : "Munich"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  pubmed           : "#https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : "patrick.schwabl@ifkw.lmu.de"
+  researchgate     :  https://www.researchgate.net/profile/Patrick_Schwabl
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "patschw"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "patrickschwabl"
   vine             :
   weibo            :
   xing             :
