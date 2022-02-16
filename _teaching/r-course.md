@@ -1,7 +1,7 @@
 ---
 title: "Introduction to data analysis with R"
 collection: teaching
-type: "Undergraduate course, October 2018 - April 2021"
+type: "Undergraduate course, October 2019 - April 2021"
 permalink: /teaching/r-course
 venue: "University of Regensburg, Institute of Political Science"
 date: 

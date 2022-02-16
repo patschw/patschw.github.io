@@ -1,7 +1,7 @@
 ---
 title: "Introduction to data analysis with SPSS"
 collection: teaching
-type: "Undergraduate course, October 2018 - April 2021"
+type: "Undergraduate course, Oktober 2018 - April 2020"
 permalink: /teaching/spss-course
 venue: "University of Regensburg, Institute of Political Science"
 date: 

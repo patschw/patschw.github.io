@@ -83,7 +83,7 @@ author:
   name             : "Patrick Schwabl"
   avatar           : "website_avatar.png"
   bio              : "PhD candidate | computational communication research | political communication | computational social science | natural language processing | interested in complexity science"
-  location         : "Munich"
+  location         : 
   employer         : "LMU Munich"
   pubmed           : # "#https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
