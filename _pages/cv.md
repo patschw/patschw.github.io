@@ -17,15 +17,19 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Participation SPARTA project &emsp ![#808080 ](06/2021-08/2021)  
+  * Web development and electoral research
+  * Bundeswehr University Munich
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Workgroup manager and Webmaster 08/2020-04/2021
+  * University of Regensburg
+  * Institute of Political Science
+
+Research assistant				        05/2018-04/2021
+University of Regensburg
+Chair of Political Science methodol-ogy
+
+
   
 Skills
 ======
