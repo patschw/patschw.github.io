@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Patrick Schwabl"
-  avatar           : "profile.png"
+  avatar           : "website_avatar.png"
   bio              : "PhD candidate \n computational communication research | political communication | computational social science | natural language processing | interested in complexity science"
   location         : "Munich"
   employer         :
