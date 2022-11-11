@@ -40,6 +40,10 @@ Presented at the 72nd Annual Conference of the ICA, Paris, France, 2022. -->
 
 ### Book chapters
 
+
+Schwabl, P., Unkel, J., & Haim, M. (in press). Vielfalt bei Google? Vielzahl, Ausgewogenheit und Verschiedenheit wahlbezogener Suchergebnisse [Diversity on Google? Multiplicity, balance and diversity of election-related search results]. In C. Holtz-Bacha (Ed.), Die (Massen-)Medien im Wahlkampf: Die Bundestagswahl 2021. Wiesbaden: Springer V
+
+
 ### Journals
 
 Soon to come ;)
@@ -48,7 +52,7 @@ Soon to come ;)
 
 
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Uf9GqRsAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/12/10033-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=B7jHLRwAAAAJ&hl" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;"></h2>
 
 <div class="publications">
 <ol class="bibliography">
@@ -59,8 +63,8 @@ Soon to come ;)
             <abbr class="badge">TPAMI</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://ieeexplore.ieee.org/document/9173698">Meta-Transfer Learning through Hard Tasks</a></div>
-      <div class="author">Qianru Sun,* <strong>Yaoyao Liu</strong>,<strong>*</strong> Zhaozheng Chen, Tat-Seng Chua, Bernt Schiele (*=Equal contribution)</div>
+      <div class="title"><a href="">Vielfalt bei Google? Vielzahl, Ausgewogenheit und Verschiedenheit wahlbezogener Suchergebnisse [Diversity on Google? Multiplicity, balance and diversity of election-related search results]</a></div>
+      <div class="author"><strong>Patrick Schwabl</strong>Julian Unkel, Mario Haim</div>
       <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence <strong>(TPAMI)</strong>, Volume 44, Number 3, 2022.</em>
       </div>
     <div class="links">
