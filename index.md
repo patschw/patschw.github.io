@@ -38,7 +38,7 @@ Presented at the 4th Text as Data Conference, Cornell Tech, Roosevelt Island, Ne
 **Patrick Schwabl**, Mario Haim, Julian Unkel
 Presented at the 72nd Annual Conference of the ICA, Paris, France, 2022. -->
 
-### Book chapters
+
 
 
 Schwabl, P., Unkel, J., & Haim, M. (in press). Vielfalt bei Google? Vielzahl, Ausgewogenheit und Verschiedenheit wahlbezogener Suchergebnisse [Diversity on Google? Multiplicity, balance and diversity of election-related search results]. In C. Holtz-Bacha (Ed.), Die (Massen-)Medien im Wahlkampf: Die Bundestagswahl 2021. Wiesbaden: Springer V
@@ -50,10 +50,12 @@ Soon to come ;)
 
 ### Other
 
+## Publications
 
+### Book chapters
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=B7jHLRwAAAAJ&hl" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">
-<h3 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">
+<!-- <h2 id="publications" style="margin: 2px 0px -15px;">Publications<temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=B7jHLRwAAAAJ&hl" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">
+<h3 id="publications" style="margin: 2px 0px -15px;">Book chapters<temp style="font-size:15px;"> -->
 
 <div class="publications">
 <ol class="bibliography">
