@@ -6,7 +6,7 @@ layout: homepage
 
 My name is Patrick, I am currently a first-year Ph.D. candidate in [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) at the Department for Media and Communication at [Ludwig-Maximilians University](https://www.lmu.de/en/) in Germany.
 My Ph.D. thesis is supervised my [Prof. Mario Haim](https://www.en.ifkw.uni-muenchen.de/staff/full_professors/haim_mario/index.html) and [Prof. Barbara Plank](https://www.cis.uni-muenchen.de/personen/professoren/bplank/index.html).  
-In my thesis I use deep learning methods to find valid numerical measurments of political positions from textual data. In one of my fist [conference presentations]() of sketch this in more detail.
+In my thesis I use deep learning methods to find valid numerical measurments of political positions from textual data. In one of my fist [conference presentations](https://doi.org/10.5281/zenodo.7308196) of sketch my ideas in more detail.
 
 
 ## Research Interests
@@ -52,8 +52,8 @@ Soon to come ;)
 
 
 
-<h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=B7jHLRwAAAAJ&hl" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;"></h2>
-<h3 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;"></h3>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=B7jHLRwAAAAJ&hl" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">
+<h3 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">
 
 <div class="publications">
 <ol class="bibliography">
