@@ -62,7 +62,7 @@ Soon to come ;)
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="https://img.yliu.me/teaser/MTL_PAMI.png" class="teaser img-fluid z-depth-1">
+    <img src=" ./assets/img/google_paper.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">TPAMI</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -71,9 +71,9 @@ Soon to come ;)
       <div class="periodical"><em>In C. Holtz-Bacha (Ed.), Die (Massen-)Medien im Wahlkampf: Die Bundestagswahl 2021. Wiesbaden: Springer V</strong>In Press</em>
       </div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/document/9173698" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <!-- <a href="https://ieeexplore.ieee.org/document/9173698" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+      <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
     </div>
   </div>
 </div>
@@ -82,7 +82,7 @@ Soon to come ;)
 <br>
   
 ### Conference papers
-
+  
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
