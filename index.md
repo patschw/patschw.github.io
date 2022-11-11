@@ -38,21 +38,8 @@ Presented at the 4th Text as Data Conference, Cornell Tech, Roosevelt Island, Ne
 **Patrick Schwabl**, Mario Haim, Julian Unkel
 Presented at the 72nd Annual Conference of the ICA, Paris, France, 2022. -->
 
-### Book chapters
-
-
-Schwabl, P., Unkel, J., & Haim, M. (in press). Vielfalt bei Google? Vielzahl, Ausgewogenheit und Verschiedenheit wahlbezogener Suchergebnisse [Diversity on Google? Multiplicity, balance and diversity of election-related search results]. In C. Holtz-Bacha (Ed.), Die (Massen-)Medien im Wahlkampf: Die Bundestagswahl 2021. Wiesbaden: Springer V
-
-
-### Journals
-
-Soon to come ;)
-
-### Other
-
-
-
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=B7jHLRwAAAAJ&hl" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;"></h2>
+
 <h3 id="publications" style="margin: 2px 0px -15px;">Book chapters <temp style="font-size:15px;"></h3>
 
 <div class="publications">
@@ -69,17 +56,26 @@ Soon to come ;)
       <div class="periodical"><em>In C. Holtz-Bacha (Ed.), Die (Massen-)Medien im Wahlkampf: Die Bundestagswahl 2021. Wiesbaden: Springer V, In Press</em>
       </div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/document/9173698" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/yaoyao-liu/meta-transfer-learning" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <!-- <a href="https://ieeexplore.ieee.org/document/9173698" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
+      <a href="https://osf.io/438mc/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
     </div>
   </div>
 </div>
 </li>
 
-<br>
-  
 
+<h3 id="publications" style="margin: 2px 0px -15px;">Journals<temp style="font-size:15px;"></h3>
+
+Soon to come ;)
+
+<h3 id="publications" style="margin: 2px 0px -15px;">Others<temp style="font-size:15px;"></h3>
+
+
+
+
+
+  
 
 ## Teaching
 
