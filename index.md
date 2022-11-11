@@ -6,7 +6,7 @@ layout: homepage
 
 My name is Patrick, I am currently a first-year Ph.D. candidate in [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) at the Department for Media and Communication at [Ludwig-Maximilians University](https://www.lmu.de/en/) in Germany.
 My Ph.D. thesis is supervised my [Prof. Mario Haim](https://www.en.ifkw.uni-muenchen.de/staff/full_professors/haim_mario/index.html) and [Prof. Barbara Plank](https://www.cis.uni-muenchen.de/personen/professoren/bplank/index.html).  
-In my thesis I use deep learning methods to find valid numerical measurments of political positions from textual data. In one of my fist [conference presentations](https://doi.org/10.5281/zenodo.7308196) of sketch my ideas in more detail.
+In my thesis I use deep learning methods to find valid numerical measurments of political positions from textual data. In one of my fist [conference presentation](https://doi.org/10.5281/zenodo.7308196) of sketch my ideas in more detail.
 
 
 ## Research Interests
@@ -18,10 +18,10 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 ## News
 
 - **[October 2022]** I have been elected as Student and early career preresentative of [ICA's Computational Methods Division](https://twitter.com/ica_cm). Thanks everyone for voting! :)
-- **[From March 2021]** Research Assistant at the chair for [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) in Munich
-- **[September-Febuary 2021]** Project worker in the project "Algorithmic biases in search engines in the 2021 German federal election campaign" with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)
-- **[July-September 2021]** Project worker at [SPARTA](https://twitter.com/projekt_sparta) at the Bundeswehr University Munich with [Jasmin Riedl](https://www.unibw.de/politikwissenschaft/professuren/lehrstuhl-invr/riedl) and [Wiebke Drews](https://sites.google.com/view/wiebkedrews/)
-- **[March 2021]** Master thesis on unsing Transformers in NLP for assisted cooking
+- **[March 2021]** I started a full time position as Ph.D. stundent and research Assistant at the chair for [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) in Munich
+- **[September-Febuary 2021]** I started a positions as a project worker in the project "Algorithmic biases in search engines in the 2021 German federal election campaign" with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)
+- **[July-September 2021]** I started a positions as a project worker at [SPARTA](https://twitter.com/projekt_sparta) at the Bundeswehr University Munich with [Jasmin Riedl](https://www.unibw.de/politikwissenschaft/professuren/lehrstuhl-invr/riedl) and [Wiebke Drews](https://sites.google.com/view/wiebkedrews/)
+- **[March 2021]** I finished my Master's thesis on unsing Transformers in NLP for assisted cooking
 
 
 
@@ -78,7 +78,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://doi.org/10.5281/zenodo.7308244">Do we need Multimodality? Experiments with Tweets from European Union Executives</a></div>
-      <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
+      <div class="author"><strong><b>Sina Özdemir, Patrick Schwabl</b></strong></div>
       <div class="periodical"><em>23. Tagung der Fachgruppe Methoden der Publizistik- und Kommunikationswissenschaft der DGPuK, Munich, Germany, 5-7 October 2022 (Session Panel: Visualisierung, Part 2)</em>
       </div>
     <div class="links">
@@ -151,6 +151,33 @@ Soon to come ;)
 
 ### Other
 
+<div class="publications">
+<ol class="bibliography">
+
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src=" ./assets/img/dgpuk_methoden_22.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">Master's Thesis</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://doi.org/10.5281/zenodo.7308244">Classifying user information needs in cooking dialogues – an empirical performance evaluation of transformer networks </a></div>
+      <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
+      <div class="periodical"><em>University of Regensburg, 2021, Supervised by,<a href="https://www.uni-regensburg.de/sprache-literatur-kultur/informationswissenschaft/mitarbeiter/bernd-ludwig/index.html">Prof. Bernd Ludwig</a> and  <a href="https://www.uni-regensburg.de/sprache-literatur-kultur/informationswissenschaft/mitarbeiter/david-elsweiler/index.html">Dr. David Elsweiler</a></em>
+      </div>
+    <div class="links">
+      <a href="https://doi.org/10.5281/zenodo.7308244" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+</ol>
+</div>
 
 ## Teaching
 
