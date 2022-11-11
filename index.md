@@ -17,7 +17,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 ## News
 
-- **[October 2022]** I have been elected as Student and early career preresentative of [ICA's Computational Methods Division](https://twitter.com/ica_cm). Thanks everyone for voting! :)
+- **[October 2022]** I have been elected as student and early career preresentative of [ICA's Computational Methods Division](https://twitter.com/ica_cm). Thanks everyone for voting! :)
 - **[March 2021]** I started a full time position as Ph.D. stundent and research Assistant at the chair for [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) in Munich
 - **[September-Febuary 2021]** I started a positions as a project worker in the project "Algorithmic biases in search engines in the 2021 German federal election campaign" with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)
 - **[July-September 2021]** I started a positions as a project worker at [SPARTA](https://twitter.com/projekt_sparta) at the Bundeswehr University Munich with [Jasmin Riedl](https://www.unibw.de/politikwissenschaft/professuren/lehrstuhl-invr/riedl) and [Wiebke Drews](https://sites.google.com/view/wiebkedrews/)
@@ -159,13 +159,13 @@ Soon to come ;)
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/dgpuk_methoden_22.png" class="teaser img-fluid z-depth-1">
+    <img src=" ./assets/img/bert_attention.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">Master's Thesis</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://doi.org/10.5281/zenodo.7308244">Classifying user information needs in cooking dialogues – an empirical performance evaluation of transformer networks </a></div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
-      <div class="periodical"><em>University of Regensburg, 2021, Supervised by,<a href="https://www.uni-regensburg.de/sprache-literatur-kultur/informationswissenschaft/mitarbeiter/bernd-ludwig/index.html">Prof. Bernd Ludwig</a> and  <a href="https://www.uni-regensburg.de/sprache-literatur-kultur/informationswissenschaft/mitarbeiter/david-elsweiler/index.html">Dr. David Elsweiler</a></em>
+      <div class="periodical"><em>University of Regensburg, 2021, Supervised by <a href="https://www.uni-regensburg.de/sprache-literatur-kultur/informationswissenschaft/mitarbeiter/bernd-ludwig/index.html">Prof. Bernd Ludwig</a> and <a href="https://www.uni-regensburg.de/sprache-literatur-kultur/informationswissenschaft/mitarbeiter/david-elsweiler/index.html">Dr. David Elsweiler</a></em>
       </div>
     <div class="links">
       <a href="https://doi.org/10.5281/zenodo.7308244" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -183,6 +183,7 @@ Soon to come ;)
 
 - Political communication during the Ukraine war at [LMU Munich](https://www.lmu.de/de/index.html), 2022
 - Tutor for introduction to Communication Science at [LMU Munich](https://www.lmu.de/de/index.html), 2022
+- 3 Day course on machine learning at [Bamberg Graduate School of Social Science](https://www.uni-bamberg.de/en/bagss/), 04-06 April 2022
 - Introduction to data analysis with R at [University of Regensburg](https://www.uni-regensburg.de/), 2019, 2020, 2021
 - Introduction to data analysis with SPSS at [University of Regensburg](https://www.uni-regensburg.de/), 2018, 2019, 2020
 - Tutor for Introduction to Political Science methodology at [University of Regensburg](https://www.uni-regensburg.de/), 2018
