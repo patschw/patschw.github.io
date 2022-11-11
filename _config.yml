@@ -1,14 +1,14 @@
 # Basic Information 
 title: Patrick Schwabl
 position: Ph.D. Candidate
-affiliation: Max Planck Institute for Informatics
-affiliation_link: https://www.mpi-inf.mpg.de/
-email: yaoyao.liu (at) mpi-inf.mpg.de
+affiliation: Department of Media and Communication at LMU Munich
+affiliation_link: https://www.en.ifkw.uni-muenchen.de/index.html
+email: patrick.schwabl(at)ifkw.lmu.de
 
 # Search Engine Optimization (SEO)
-keywords: yaoyao liu, liu yaoyao, yaoyaoliu, liuyaoyao
-canonical: https://www.mpi-inf.mpg.de/~yaliu/
-description: Yaoyao Liu is a Ph.D. candidate at Max Planck Institute for Informatics. His research lies in meta-learning, incremental learning, and image generation.
+keywords: patrick schwabl, schwabl patrick, schwabl, patrick, natural language processing, political position, scaling, lmu, munich, lmu munich, ifkw
+canonical: https://www.ls1.ifkw.uni-muenchen.de/personen/wiss_ma/schwabl/index.html
+description: Patrick Schwabl is a Ph.D. candidate at the chair for Computational Communication Research at LMU Munich. His research lies in natural language processing, word embeddings, and political communication.
 
 # The option is used to enable the MPI Informatics template.
 enable_mpi_logo: true
