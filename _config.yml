@@ -14,14 +14,14 @@ description: Yaoyao Liu is a Ph.D. candidate at Max Planck Institute for Informa
 enable_mpi_logo: true
 
 # Links
-google_scholar: https://scholar.google.com/citations?user=Uf9GqRsAAAAJ
+google_scholar: https://scholar.google.com/citations?user=B7jHLRwAAAAJ&hl
 cv_link: https://files.yliu.me/Yaoyao_Liu_Curriculum_Vitae.pdf
-github_link: https://github.com/yaoyao-liu/
-linkedin: https://www.linkedin.com/in/liuyaoyao/
-twitter: https://twitter.com/YaoyaoLiu1/
+# github_link: https://github.com/patschw
+# linkedin: https://www.linkedin.com/in/liuyaoyao/
+twitter: https://twitter.com/patrickschwabl/
 
 # Images 
-avatar: https://img.yliu.me/avatar.jpg
+avatar: https://www.ls1.ifkw.uni-muenchen.de/bilder/web_bilder_m/patrick.JPG
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
