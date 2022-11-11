@@ -11,9 +11,9 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 ## Research Interests
 
-- **Algorithmic Curation:** image recognition, image generation, video captioning
-- **Natural Language Processing:** meta-learning, incremental learning, transfer learning
-- **Natural Language Processing:** meta-learning, incremental learning, transfer learning
+- **Spatial models of politics:** political position embeddings, text as data, measurment validity
+- **Natural Language Processing:** transformers, contextualized word embeddings, multimodal embeddings
+- **Algorithmic Curation:** search engine results during elections, agent-based testing
 
 ## News
 
