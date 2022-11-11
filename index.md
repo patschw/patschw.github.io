@@ -17,34 +17,17 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 ## News
 
+- **[October 2022]** I have been elected as Student and early career preresentative of [ICA's Computational Methods Division](https://twitter.com/ica_cm). Thanks everyone for voting! :)
 - **[From March 2021]** Research Assistant at the chair for [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) in Munich
 - **[September-Febuary 2021]** Project worker in the project "Algorithmic biases in search engines in the 2021 German federal election campaign" with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)
 - **[July-September 2021]** Project worker at [SPARTA](https://twitter.com/projekt_sparta) at the Bundeswehr University Munich with [Jasmin Riedl](https://www.unibw.de/politikwissenschaft/professuren/lehrstuhl-invr/riedl) and [Wiebke Drews](https://sites.google.com/view/wiebkedrews/)
 - **[March 2021]** Master thesis on unsing Transformers in NLP for assisted cooking
 
-<!-- ## Publications
-
-### Conferences
-
-[Do we need Multimodality? Experiments with Tweets from European Union Executives](https://doi.org/10.5281/zenodo.7308244)
-Sina Özdemir, **Patrick Schwabl**
-Presented at the 72nd Annual Conference of the ICA, Paris, France, 2022.
-
-[Scaling latent political positions from textual data using word embeddings](https://doi.org/10.5281/zenodo.7308196)
-**Patrick Schwabl**
-Presented at the 4th Text as Data Conference, Cornell Tech, Roosevelt Island, New York City, 2022. 
-
-[Searching for biased information? Informational strategies and algorithmic curation](https://doi.org/10.5281/zenodo.7308072)
-**Patrick Schwabl**, Mario Haim, Julian Unkel
-Presented at the 72nd Annual Conference of the ICA, Paris, France, 2022. -->
 
 
 
-### Journals
 
-Soon to come ;)
 
-### Other
 
 ## Publications
 
@@ -159,6 +142,14 @@ Soon to come ;)
 </ol>
 </div>
 
+
+
+### Journal papers
+
+Soon to come ;)
+
+
+### Other
 
 
 ## Teaching
