@@ -15,19 +15,19 @@ enable_mpi_logo: true
 
 # Links
 google_scholar: https://scholar.google.com/citations?user=B7jHLRwAAAAJ&hl
-cv_link: https://files.yliu.me/Yaoyao_Liu_Curriculum_Vitae.pdf
+# cv_link: https://files.yliu.me/Yaoyao_Liu_Curriculum_Vitae.pdf
 # github_link: https://github.com/patschw
 # linkedin: https://www.linkedin.com/in/liuyaoyao/
 twitter: https://twitter.com/patrickschwabl/
 
 # Images 
 avatar: https://www.ls1.ifkw.uni-muenchen.de/bilder/web_bilder_m/patrick.JPG
-favicon: ./assets/img/favicon.png
-favicon_dark: ./assets/img/favicon-dark.png
+# favicon: ./assets/img/favicon.png
+# favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnotes
-footnote: Feel free to use my website's source code.
-footnote_link: https://github.com/yaoyao-liu/minimal-light
+footnote: This website is based on the minimal light theme by Yaoyao Liu.
+footnote_link: https://people.mpi-inf.mpg.de/~yaliu/
 
 # Analytics
 # Please remove the following lines about analytics services if you fork my project. 
@@ -37,7 +37,7 @@ clustrmaps_link: //clustrmaps.com/globe.js?d=71dq8HjqihJEgSiwaSZovuMn_4gJE3ed9kC
 
 # General Data Protection Regulation (GDPR) information
 # If you don't need to add the GDPR information, you may remove the following lines.
-imprint: https://imprint.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu
+imprint: imprint.html
 data_protection: https://data-protection.mpi-klsb.mpg.de/inf/people.mpi-inf.mpg.de/yaliu?lang=en
 
 # The following files will be removed from the generated website.
