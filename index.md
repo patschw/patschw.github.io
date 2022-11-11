@@ -91,17 +91,39 @@ Soon to come ;)
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/google_paper.png" class="teaser img-fluid z-depth-1">
+    <img src=" ./assets/img/tada_22.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">TADA22</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://doi.org/10.5281/zenodo.7308196">Scaling latent political positions from textual data using word embeddings</a></div>
+      <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
+      <div class="periodical"><em>4th Text as Data Conference 2022 (TADA 2022), Cornell Tech, Roosevelt Island, New York City, 6-7 October 2022 (Session A, Part 8)</em>
+      </div>
+    <div class="links">
+      <a href="https://doi.org/10.5281/zenodo.7308196" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src=" ./assets/img/ica_22.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICA22</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://doi.org/10.5281/zenodo.7308072">Searching for biased information? Informational strategies and algorithmic curation</a></div>
       <div class="author"><strong><b>Patrick Schwabl</b>, Mario Haim, Julian Unkel</strong></div>
-      <div class="periodical"><em>72nd Annual International Communication Association Conference (72nd ICA Conference), Paris, 26-30 May 2022 (Session 3226, Part 6) </strong>In Press</em>
+      <div class="periodical"><em>72nd Annual International Communication Association Conference (72nd ICA Conference), Paris, 26-30 May 2022 (Session 3226, Part 6)</em>
       </div>
     <div class="links">
       <!-- <a href="https://ieeexplore.ieee.org/document/9173698" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
-      <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code & Data</a>
       <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
     </div>
   </div>
@@ -135,7 +157,7 @@ Soon to come ;)
 </ul>
 
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.icahdq.org/mpage/ICA23"><autocolor>International Communication Association conference 2023</autocolor></a></li>
