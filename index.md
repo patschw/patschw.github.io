@@ -160,12 +160,12 @@ Soon to come ;)
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src=" ./assets/img/bert_attention.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">Master's Thesis</abbr>
+            <!-- <abbr class="badge">Master's Thesis</abbr> -->
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://epub.uni-regensburg.de/46308/">Classifying user information needs in cooking dialogues – an empirical performance evaluation of transformer networks </a></div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
-      <div class="periodical"><em>University of Regensburg, 2021, Supervised by <a href="https://www.uni-regensburg.de/sprache-literatur-kultur/informationswissenschaft/mitarbeiter/bernd-ludwig/index.html">Prof. Bernd Ludwig</a> and <a href="https://www.uni-regensburg.de/sprache-literatur-kultur/informationswissenschaft/mitarbeiter/david-elsweiler/index.html">Dr. David Elsweiler</a></em>
+      <div class="periodical"><em>Master's Thesis, University of Regensburg, 2021, Supervised by <a href="https://www.uni-regensburg.de/sprache-literatur-kultur/informationswissenschaft/mitarbeiter/bernd-ludwig/index.html">Prof. Bernd Ludwig</a> and <a href="https://www.uni-regensburg.de/sprache-literatur-kultur/informationswissenschaft/mitarbeiter/david-elsweiler/index.html">Dr. David Elsweiler</a></em>
       </div>
     <div class="links">
       <a href="https://epub.uni-regensburg.de/46308/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
