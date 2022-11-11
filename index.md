@@ -2,29 +2,51 @@
 layout: homepage
 ---
 
-## About Me
+## Welcome!
 
-I am currently a final-year Ph.D. candidate in Computer Science at [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/), supervised by [Prof. Bernt Schiele](https://people.mpi-inf.mpg.de/~schiele/) and [Prof. Qianru Sun](https://qianrusun.com/). As part of the [ELLIS Ph.D. Program](https://ellis.eu/phd-postdoc), I am co-supervised by [Dr. Christian Rupprecht](https://chrirupp.github.io/), with a planned exchange in the [Visual Geometry Group (VGG)](https://www.robots.ox.ac.uk/~vgg/) at the [University of Oxford](https://www.ox.ac.uk/). Meanwhile, I also work closely with [Prof. Andrea Vedaldi](https://www.robots.ox.ac.uk/~vedaldi/). From 2018 to 2019, I  was a research intern at the [National University of Singapore](https://www.comp.nus.edu.sg/), working with [Prof. Tat-Seng Chua](https://www.chuatatseng.com/) and [Prof. Qianru Sun](https://qianrusun.com/). I obtained my bachelor’s degree from [Tianjin University](http://www.tju.edu.cn/english/index.htm). 
+My name is Patrick, I am currently a first-year Ph.D. candidate in [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) at the Department for Media and Communication at [Ludwig-Maximilians University](https://www.lmu.de/en/) in Germany.
+My Ph.D. thesis is supervised my [Prof. Mario Haim](https://www.en.ifkw.uni-muenchen.de/staff/full_professors/haim_mario/index.html) and [Prof. Barbara Plank](https://www.cis.uni-muenchen.de/personen/professoren/bplank/index.html).  
+In my thesis I use deep learning methods to find valid numerical measurments of political positions from textual data. In one of my fist [conference presentations]() of sketch this in more detail.
 
-My research lies at the intersection of **computer vision** and **machine learning** -- with a special focus on building intelligent visual systems that are continual and data-efficient. My research interests include **continual learning**, **few-shot learning**, **semi-supervised learning**, and **image generation**.
 
-<!--
-<strong style="color:#e74d3c; font-weight:600">I am looking for a postdoc or research scientist position in the US and EU. I would appreciate a ping if you see a job I might fit.</strong>
--->
+## Research Interests
+
+- **Algorithmic Curation:** image recognition, image generation, video captioning
+- **Natural Language Processing:** meta-learning, incremental learning, transfer learning
+- **Natural Language Processing:** meta-learning, incremental learning, transfer learning
 
 ## News
 
-- **[Oct. 2022]** I am recognized as a top reviewer for [NeurIPS 2022](https://neurips.cc/Conferences/2022/ProgramCommittee).
-- **[Aug. 2022]** I will serve as an area chair of [AISTATS 2023](https://aistats.org/aistats2023/).
-- **[June 2022]** I will serve as a student mentor of [the CVPR Academy](https://sites.google.com/view/cvpr-academy/) at [CVPR 2022](http://cvpr2022.thecvf.com/).
-- **[June 2022]** I will serve as a website chair of [BMVC 2022](https://bmvc2022.org/people/organisers/).
-- **[Sept. 2021]** Our paper about [class-incremental learning](https://openreview.net/pdf?id=BfPzZSype5M) is accepted to [NeurIPS 2021](https://neurips.cc/Conferences/2021).
-- **[Mar. 2021]** Our paper about [class-incremental learning](https://arxiv.org/pdf/2010.05063.pdf) is accepted to [CVPR 2021](http://cvpr2021.thecvf.com/).
-- **[July 2020]** Our paper about [few-shot learning](https://link.springer.com/content/pdf/10.1007%2F978-3-030-58517-4_24.pdf) is accepted to [ECCV 2020](https://eccv2020.eu/).
-- **[Feb. 2020]** Our paper about [class-incremental learning](https://arxiv.org/pdf/2002.10211.pdf) is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://www.acmmmasia.org/2020/committee.html) conference in Singapore!
-- **[Sept. 2019]** Our paper about [few-shot learning](https://papers.nips.cc/paper/2019/file/bf25356fd2a6e038f1a3a59c26687e80-Paper.pdf) is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about [few-shot learning](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf) is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[From March 2021]** Research Assistant at the chair for [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html)
+- **[September-Febuary 2021]** Project worker in the project "Algorithmic biases in search engines in the 2021 German federal election campaign" with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)
+- **[July-September 2021]** Project worker at [SPARTA](https://twitter.com/projekt_sparta) at the Bundeswehr University Munich with [Jasmin Riedl](https://www.unibw.de/politikwissenschaft/professuren/lehrstuhl-invr/riedl) and [Wiebke Drews](https://sites.google.com/view/wiebkedrews/)
+- **[March 2021]** Master thesis on unsing Transformers in NLP for assisted cooking
+
+<!-- ## Publications
+
+### Conferences
+
+[Do we need Multimodality? Experiments with Tweets from European Union Executives](https://doi.org/10.5281/zenodo.7308244)
+Sina Özdemir, **Patrick Schwabl**
+Presented at the 72nd Annual Conference of the ICA, Paris, France, 2022.
+
+[Scaling latent political positions from textual data using word embeddings](https://doi.org/10.5281/zenodo.7308196)
+**Patrick Schwabl**
+Presented at the 4th Text as Data Conference, Cornell Tech, Roosevelt Island, New York City, 2022. 
+
+[Searching for biased information? Informational strategies and algorithmic curation](https://doi.org/10.5281/zenodo.7308072)
+**Patrick Schwabl**, Mario Haim, Julian Unkel
+Presented at the 72nd Annual Conference of the ICA, Paris, France, 2022. -->
+
+### Book chapters
+
+### Journals
+
+Soon to come ;)
+
+### Other
+
+
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications <temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=Uf9GqRsAAAAJ" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">[</temp><a href="https://dblp.org/pid/12/10033-1.html" target="_blank" style="font-size:15px;">DBLP</a><temp style="font-size:15px;">]</temp></h2>
 
@@ -258,42 +280,25 @@ My research lies at the intersection of **computer vision** and **machine learni
 - Teaching Assistant, [High-Level Computer Vision](https://www.mpi-inf.mpg.de/hlcv) at [Universität des Saarlandes](https://www.uni-saarland.de/), 2021 and 2022
 
 ## Services
+## Services
 
-<h4 style="margin:0 10px 0;">Organization Committee</h4>
+Conference reviewer, [ICA conference 2022](https://www.icahdq.org/page/ICA2022)
+Student and early career preresentative, [Computational Methods Division](https://www.icahdq.org/group/compmethds) of the [International Communication Association](https://www.icahdq.org/); term starting May 2023
+
+<h4 style="margin:0 10px 0;">Scient</h4>
 
 <ul style="margin:0 0 5px;">
   <li>Website Chair, <a href="https://bmvc2022.org/people/organisers/"><autocolor>The British Machine Vision Conference (BMVC) 2022</autocolor></a></li>
   <li>Website Master, <a href="https://www.acmmmasia.org/2020/committee.html"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia) 2020</autocolor></a></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Area Chair</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="https://aistats.org/aistats2023/"><autocolor>International Conference on Artificial Intelligence and Statistics (AISTATS) 2023</autocolor></a></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Senior Program Committee</h4>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="https://ijcai-21.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2021</autocolor></a></li>
-</ul>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-  <li><a href="https://neurips.cc/Conferences/2022"><autocolor>Annual Conference on Neural Information Processing Systems (NeurIPS) 2020-2022</autocolor></a></li>
-  <li><a href="https://icml.cc/Conferences/2022"><autocolor>International Conference on Machine Learning (ICML) 2021-2022</autocolor></a></li>
-  <li><a href="https://iclr.cc/Conferences/2023"><autocolor>International Conference on Learning Representations (ICLR) 2022-2023</autocolor></a></li>
-  <li><a href="https://aaai.org/Conferences/AAAI-23/"><autocolor>AAAI Conference on Artificial Intelligence (AAAI) 2021-2023</autocolor></a></li>
-  <li><a href="https://ijcai-22.org/"><autocolor>International Joint Conference on Artificial Intelligence (IJCAI) 2021-2022</autocolor></a></li>
-  <li><a href="https://2022.acmmm.org/"><autocolor>ACM International Conference on Multimedia (MM) 2021-2022</autocolor></a></li>  
-  <!--
-  <li><a href="https://mmasia2021.uqcloud.net/"><autocolor>ACM MM Asia 2020-2021</autocolor></a></li>
-  <li><a href="http://www.acml-conf.org/2021/"><autocolor>ACML 2021</autocolor></a></li>  
-  -->
+  <li><a href="https://www.icahdq.org/mpage/ICA23"><autocolor>International Communication Association conference 2023</autocolor></a></li>
+  <li><a href="https://www.dgpuk.de/de/methoden-der-publizistik-und-kommunikationswissenschaft.html"><autocolor>Jahrestagung der Fachgruppe Methoden der DGPuK 2022</autocolor></a></li>
+  <li><a href="https://www.icahdq.org/page/ICA2022"><autocolor>International Communication Association conference 2022</autocolor></a></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
