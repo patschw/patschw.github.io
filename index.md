@@ -64,7 +64,7 @@ Soon to come ;)
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://osf.io/438mc">Vielfalt bei Google? Vielzahl, Ausgewogenheit und Verschiedenheit wahlbezogener Suchergebnisse [Diversity on Google? Multiplicity, balance and diversity of election-related search results]</a></div>
       <div class="author"><strong><b>Patrick Schwabl</b>, Julian Unkel, Mario Haim</strong></div>
-      <div class="periodical"><em>In C. Holtz-Bacha (Ed.), Die (Massen-)Medien im Wahlkampf: Die Bundestagswahl 2021. Wiesbaden: Springer V</strong>In Press</em>
+      <div class="periodical"><em>In C. Holtz-Bacha (Ed.), Die (Massen-)Medien im Wahlkampf: Die Bundestagswahl 2021. Wiesbaden: Springer V, In Press</em>
       </div>
     <div class="links">
       <!-- <a href="https://ieeexplore.ieee.org/document/9173698" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
@@ -87,6 +87,27 @@ Soon to come ;)
 
 
 
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src=" ./assets/img/dgpuk_methoden_22.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">DGPuK Methods Conference 22</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://doi.org/10.5281/zenodo.7308244">Do we need Multimodality? Experiments with Tweets from European Union Executives</a></div>
+      <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
+      <div class="periodical"><em>23. Tagung der Fachgruppe Methoden der Publizistik- und Kommunikationswissenschaft der DGPuK, Munich, Germany, 5-7 October 2022 (Session Panel: Visualisierung, Part 2)</em>
+      </div>
+    <div class="links">
+      <a href="https://doi.org/10.5281/zenodo.7308244" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
 
 <li>
 <div class="pub-row">
@@ -97,7 +118,7 @@ Soon to come ;)
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://doi.org/10.5281/zenodo.7308196">Scaling latent political positions from textual data using word embeddings</a></div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
-      <div class="periodical"><em>4th Text as Data Conference 2022 (TADA 2022), Cornell Tech, Roosevelt Island, New York City, 6-7 October 2022 (Session A, Part 8)</em>
+      <div class="periodical"><em>4th Text as Data Conference 2022, Cornell Tech, New York City, 6-7 October 2022 (Session A, Part 8)</em>
       </div>
     <div class="links">
       <a href="https://doi.org/10.5281/zenodo.7308196" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -122,8 +143,8 @@ Soon to come ;)
       <div class="periodical"><em>72nd Annual International Communication Association Conference (72nd ICA Conference), Paris, 26-30 May 2022 (Session 3226, Part 6)</em>
       </div>
     <div class="links">
-      <!-- <a href="https://ieeexplore.ieee.org/document/9173698" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> -->
-      <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code & Data</a>
+      <a href="https://doi.org/10.5281/zenodo.7308072" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code & Data</a> -->
       <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
     </div>
   </div>
