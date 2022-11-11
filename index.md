@@ -277,19 +277,18 @@ Soon to come ;)
 
 ## Teaching
 
-- Teaching Assistant, [High-Level Computer Vision](https://www.mpi-inf.mpg.de/hlcv) at [Universität des Saarlandes](https://www.uni-saarland.de/), 2021 and 2022
+- Political communication during the Ukraine war [LMU Munich](https://www.lmu.de/de/index.html), 2022
+- Tutor for introduction to Communication Science [LMU Munich](https://www.lmu.de/de/index.html), 2022
+- Introduction to data analysis with R [University of Regensburg](https://www.uni-regensburg.de/), 2019, 2020, 2021
+- Introduction to data analysis with SPSS [University of Regensburg](https://www.uni-regensburg.de/), 2018, 2019, 2020
+- Tutor for Introduction to Political Science methodology at [University of Regensburg](https://www.uni-regensburg.de/), 2018
 
 ## Services
-## Services
 
-Conference reviewer, [ICA conference 2022](https://www.icahdq.org/page/ICA2022)
-Student and early career preresentative, [Computational Methods Division](https://www.icahdq.org/group/compmethds) of the [International Communication Association](https://www.icahdq.org/); term starting May 2023
-
-<h4 style="margin:0 10px 0;">Scient</h4>
+<h4 style="margin:0 10px 0;">Organizations</h4>
 
 <ul style="margin:0 0 5px;">
-  <li>Website Chair, <a href="https://bmvc2022.org/people/organisers/"><autocolor>The British Machine Vision Conference (BMVC) 2022</autocolor></a></li>
-  <li>Website Master, <a href="https://www.acmmmasia.org/2020/committee.html"><autocolor>ACM International Conference on Multimedia in Asia (MM Asia) 2020</autocolor></a></li>
+  <li><a href="https://www.icahdq.org/group/compmethds"><autocolor>Student and early career preresentative, Computational Methods Division of the International Communication Association; term starting May 2023</autocolor></a></li>
 </ul>
 
 
@@ -300,31 +299,3 @@ Student and early career preresentative, [Computational Methods Division](https:
   <li><a href="https://www.dgpuk.de/de/methoden-der-publizistik-und-kommunikationswissenschaft.html"><autocolor>Jahrestagung der Fachgruppe Methoden der DGPuK 2022</autocolor></a></li>
   <li><a href="https://www.icahdq.org/page/ICA2022"><autocolor>International Communication Association conference 2022</autocolor></a></li>
 </ul>
-
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
-  <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-image-processing"><autocolor>IEEE Transactions on Image Processing (TIP)</autocolor></a></li>
-  <li><a href="https://www.computer.org/csdl/journal/tk"><autocolor>IEEE Transactions on Knowledge and Data Engineering (TKDE)</autocolor></a></li>
-  <li><a href="https://signalprocessingsociety.org/publications-resources/ieee-transactions-multimedia"><autocolor>IEEE Transactions on Multimedia (TMM)</autocolor></a></li>
-  <li><a href="https://ieee-cas.org/publications/ieee-transactions-circuits-and-systems-video-technology"><autocolor>IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)</autocolor></a></li>
-  <li><a href="https://cis.ieee.org/publications/t-neural-networks-and-learning-systems"><autocolor>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</autocolor></a></li>
-  <li><a href="https://dl.acm.org/journal/tomm"><autocolor>ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM)</autocolor></a></li>
-  <!--
-  <li><a href="https://www.journals.elsevier.com/neural-networks"><autocolor>Neural Networks</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/10994"><autocolor>Machine Learning</autocolor></a></li>
-  <li><a href="https://www.journals.elsevier.com/information-processing-and-management"><autocolor>Information Processing and Management</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11063"><autocolor>Neural Processing Letters</autocolor></a></li>
-  <li><a href="https://link.springer.com/journal/11042"><autocolor>Multimedia Tools and Applications</autocolor></a></li>
-  <li><a href="https://ieeeaccess.ieee.org/"><autocolor>IEEE Access</autocolor></a></li>
-  <li><a href="http://cjc.ict.ac.cn/"><autocolor>Chinese Journal of Computers</autocolor></a></li>
-  -->
-</ul>
-<!--
-## Contact
-**Address:** [Max-Planck-Institut für Informatik, Campus E1 4, 66123 Saarbrücken, Germany](https://g.page/MPI-INF)
-<br>
-**Office Location:** E1 4 - 609 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Phone:** +49 681 9325 2109
--->
