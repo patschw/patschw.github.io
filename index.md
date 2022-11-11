@@ -63,10 +63,10 @@ Soon to come ;)
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src=" ./assets/img/google_paper.png" class="teaser img-fluid z-depth-1">
-            <abbr class="badge">TPAMI</abbr>
+            <!-- <abbr class="badge">TPAMI</abbr> -->
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="">Vielfalt bei Google? Vielzahl, Ausgewogenheit und Verschiedenheit wahlbezogener Suchergebnisse [Diversity on Google? Multiplicity, balance and diversity of election-related search results]</a></div>
+      <div class="title"><a href="https://osf.io/438mc">Vielfalt bei Google? Vielzahl, Ausgewogenheit und Verschiedenheit wahlbezogener Suchergebnisse [Diversity on Google? Multiplicity, balance and diversity of election-related search results]</a></div>
       <div class="author"><strong><b>Patrick Schwabl</b>, Julian Unkel, Mario Haim</strong></div>
       <div class="periodical"><em>In C. Holtz-Bacha (Ed.), Die (Massen-)Medien im Wahlkampf: Die Bundestagswahl 2021. Wiesbaden: Springer V</strong>In Press</em>
       </div>
