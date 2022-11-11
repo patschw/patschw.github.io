@@ -1,8 +1,8 @@
-# yaoyao-liu.github.io
+# patschw.github.io
 
-[![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/main/LICENSE)
 
-This is the latest version of my homepage's source code. Feel free to use and share.
+
+This repo is based on the minimal light theme by Yaoyao Liu, similar licensing applies: [![LICENSE](https://img.shields.io/github/license/yaoyao-liu/minimal-light?style=flat-square&logo=creative-commons&color=EF9421)](https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/main/LICENSE)
 <br />
 For more details, please refer to <https://github.com/yaoyao-liu/minimal-light>.
 
@@ -46,6 +46,8 @@ View the live page using `localhost`:
 ### Acknowledgements
 
 This project uses the source code from the following repositories:
+
+* [minimal-light](https://github.com/yaoyao-liu/minimal-light)
 
 * [pages-themes/minimal](https://github.com/pages-themes/minimal)
 
