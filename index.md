@@ -6,7 +6,7 @@ layout: homepage
 
 My name is Patrick, I am currently a first-year Ph.D. candidate in [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) at the Department for Media and Communication at [Ludwig-Maximilians University](https://www.lmu.de/en/) in Germany.
 My Ph.D. thesis is supervised my [Prof. Mario Haim](https://www.en.ifkw.uni-muenchen.de/staff/full_professors/haim_mario/index.html) and [Prof. Barbara Plank](https://www.cis.uni-muenchen.de/personen/professoren/bplank/index.html).  
-In my thesis I use deep learning methods to find valid numerical measurments of political positions from textual data. In one of my fist [conference presentation](https://doi.org/10.5281/zenodo.7308196) of sketch my ideas in more detail.
+In my thesis I use deep learning methods to find valid numerical measurments of political positions from textual data. In one of my fist [conference presentation](https://doi.org/10.5281/zenodo.7308196) I sketch my ideas in more detail.
 
 
 ## Research Interests
@@ -18,7 +18,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 ## News
 
 - **[October 2022]** I have been elected as student and early career preresentative of [ICA's Computational Methods Division](https://twitter.com/ica_cm). Thanks everyone for voting! :)
-- **[March 2021]** I started a full time position as Ph.D. stundent and research Assistant at the chair for [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) in Munich
+- **[March 2021]** I started a full time position as Ph.D. stundent and research assistant at the chair for [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) in Munich
 - **[September-Febuary 2021]** I started a positions as a project worker in the project "Algorithmic biases in search engines in the 2021 German federal election campaign" with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)
 - **[July-September 2021]** I started a positions as a project worker at [SPARTA](https://twitter.com/projekt_sparta) at the Bundeswehr University Munich with [Jasmin Riedl](https://www.unibw.de/politikwissenschaft/professuren/lehrstuhl-invr/riedl) and [Wiebke Drews](https://sites.google.com/view/wiebkedrews/)
 - **[March 2021]** I finished my Master's thesis on unsing Transformers in NLP for assisted cooking
@@ -186,7 +186,7 @@ Soon to come ;)
 - 3 Day course on machine learning at [Bamberg Graduate School of Social Science](https://www.uni-bamberg.de/en/bagss/), 04-06 April 2022
 - Introduction to data analysis with R at [University of Regensburg](https://www.uni-regensburg.de/), 2019, 2020, 2021
 - Introduction to data analysis with SPSS at [University of Regensburg](https://www.uni-regensburg.de/), 2018, 2019, 2020
-- Tutor for Introduction to Political Science methodology at [University of Regensburg](https://www.uni-regensburg.de/), 2018
+- Tutor for introduction to Political Science methodology at [University of Regensburg](https://www.uni-regensburg.de/), 2018
 
 ## Services
 
