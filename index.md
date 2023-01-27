@@ -144,6 +144,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 </ol>
 </div>
 
+<!--
 ### Preprints and not yet published papers
 
 <li>
@@ -155,17 +156,17 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://doi.org/10.31235/osf.io/rb4sp">Computational scaling of political positions from textual data using word embeddings</a></div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
-      <!-- <div class="periodical"><em>72nd Annual International Communication Association Conference (72nd ICA Conference), Paris, 26-30 May 2022 (Session 3226, Part 6)</em> -->
+      <!-- <div class="periodical"><em>72nd Annual International Communication Association Conference (72nd ICA Conference), Paris, 26-30 May 2022 (Session 3226, Part 6)</em> 
       </div>
     <div class="links">
       <a href="https://doi.org/10.31235/osf.io/rb4sp" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code & Data</a> -->
-      <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <!-- <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code & Data</a> 
+      <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
     </div>
   </div>
 </div>
 </li>
-
+-->
 
 ### Journal papers
 
