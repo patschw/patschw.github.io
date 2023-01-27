@@ -10,7 +10,7 @@ html, body {
 }
 
 h1 {
-	color: #036;
+	color: #3EB7F0;
 	font: bold 100% Verdana, Arial, Helvetica, sans-serif;
 	padding: 1em 1em 0.3em 1em; 
 	margin: 0;
@@ -68,7 +68,7 @@ address {
 a:link {color: #036;}
 
 a:visited {
-	color: #669;
+	color: #3EB7F0;
 /*	color: #036; */
 /*	color: #99c; */
 /*	color: rgb(67%,76%,84%);  */
