@@ -17,6 +17,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 ## News
 
+- **[January 2023]** Our paper "From auditing to testing: Adequate experimental designs to study algorithmic content curation" has been accepted for [ICA 2023](https://www.icahdq.org/)
 - **[October 2022]** I have been elected as student and early career preresentative of [ICA's Computational Methods Division](https://twitter.com/ica_cm). Thanks everyone for voting! :)
 - **[March 2021]** I started a full time position as Ph.D. stundent and research assistant at the chair for [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) in Munich
 - **[September-Febuary 2021]** I started a positions as a project worker in the project "Algorithmic biases in search engines in the 2021 German federal election campaign" with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)
@@ -180,7 +181,7 @@ Soon to come ;)
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/tiebout.png" class="teaser img-fluid z-depth-1">
+    <img src=" ./assets/img/tiebout-1.png" class="teaser img-fluid z-depth-1">
             <!-- <abbr class="badge">Master's Thesis</abbr> -->
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
