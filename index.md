@@ -193,7 +193,7 @@ Soon to come ;)
       </div>
     <div class="links">
       <a href="https://doi.org/10.5281/zenodo.7515125" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF & Code</a>
-      <a href="modelingcommons.org/browse/one_model/6041" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Run the model in your browser</a>
+      <a href="https://modelingcommons.org/browse/one_model/6041" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Run the model in your browser</a>
       <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
     </div>
   </div>
