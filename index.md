@@ -180,17 +180,17 @@ Soon to come ;)
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/bert_attention.png" class="teaser img-fluid z-depth-1">
+    <img src=" ./assets/img/tiebout.png" class="teaser img-fluid z-depth-1">
             <!-- <abbr class="badge">Master's Thesis</abbr> -->
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://epub.uni-regensburg.de/46308/">Classifying user information needs in cooking dialogues – an empirical performance evaluation of transformer networks </a></div>
+      <div class="title"><a href="https://doi.org/10.5281/zenodo.7515125">Voting-with-the-feet: Eine Analyse des Tiebout-Modells mittels Agenten-basierter Modellierung [Voting-with-the-feet: an analysis of the Tiebout model using agent-based modeling] </a></div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
-      <div class="periodical"><em>Bachelor's Thesis, University of Regensburg, 2021, Supervised by <a href="https://www.uni-regensburg.de/sprache-literatur-kultur/informationswissenschaft/mitarbeiter/bernd-ludwig/index.html">Prof. Bernd Ludwig</a> and <a href="https://www.uni-regensburg.de/sprache-literatur-kultur/informationswissenschaft/mitarbeiter/david-elsweiler/index.html">Dr. David Elsweiler</a></em>
+      <div class="periodical"><em>Bachelor's Thesis, University of Regensburg, 2019, Supervised by <a href="https://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/politikwissenschaft/institut/lehrkraft-besondere/index.html">Dr. Maximilian Grasl</a> and <a href="https://www.uni-regensburg.de/philosophie-kunst-geschichte-gesellschaft/methoden-politikwissenschaft/walter-rogg/index.html">Prof. Dr. Melanie Walter-Rogg</a></em>
       </div>
     <div class="links">
-      <a href="https://epub.uni-regensburg.de/46308/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <a href="https://doi.org/10.5281/zenodo.7515125" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF & Code</a>
+      <a href="modelingcommons.org/browse/one_model/6041" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Run the model in your browser</a>
       <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
     </div>
   </div>
