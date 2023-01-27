@@ -17,7 +17,8 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 ## News
 
-- **[January 2023]** Our paper "From auditing to testing: Adequate experimental designs to study algorithmic content curation" has been accepted for [ICA 2023](https://www.icahdq.org/)
+- **[January 2023]** Our (with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)) paper "From auditing to testing: Adequate experimental designs to study algorithmic content curation" has been accepted for [ICA 2023](https://www.icahdq.org/)
+- **[January 2023]** My first single-authored paper "Computational scaling of political positions from textual data using word embeddings" has been rejected for [ICA 2023](https://www.icahdq.org/). Maybe next time :) [I uploaded it as a preprint to SocArXiv](https://doi.org/10.31235/osf.io/rb4sp). If you're interested in word embeddings and political positions let me know what you think or what I could improve the paper. :)
 - **[October 2022]** I have been elected as student and early career preresentative of [ICA's Computational Methods Division](https://twitter.com/ica_cm). Thanks everyone for voting! :)
 - **[March 2021]** I started a full time position as Ph.D. stundent and research assistant at the chair for [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) in Munich
 - **[September-Febuary 2021]** I started a positions as a project worker in the project "Algorithmic biases in search engines in the 2021 German federal election campaign" with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)
