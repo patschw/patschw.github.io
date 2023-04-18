@@ -167,6 +167,8 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 </ol>
 
+</br>
+
 ### Journal papers
 
 Soon to come ;)
@@ -243,6 +245,8 @@ Soon to come ;)
 
 </ol>
 </div>
+
+</br>
 
 ## Teaching
 
