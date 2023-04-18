@@ -273,19 +273,15 @@ Soon to come ;)
 
 ### Organizations
 
-<ul style="margin:0 0 5px;">
-  <li><a href="https://www.icahdq.org/group/compmethds"><autocolor>Student and early career preresentative, Computational Methods Division of the International Communication Association; term starting May 2023</autocolor></a></li>
-</ul>
-
+- Student and early career preresentative, [Computational Methods Division](https://www.icahdq.org/group/compmethds) of the International Communication Association; term starting May 2023
 
 ### Conference Reviewer
-
 
 - [International Communication Association conference 2023](https://www.icahdq.org/mpage/ICA23)
 - [Jahrestagung der Fachgruppe Methoden der DGPuK 2022](https://www.dgpuk.de/de/methoden-der-publizistik-und-kommunikationswissenschaft.html)
 - [International Communication Association conference 2022](https://www.icahdq.org/page/ICA2022)
 
-<h4 style="margin:0 10px 0;">Other</h4>
+### Other
 
 I co-host and organize a in-person **coding club** (aka computational exchange on wednesday) three times every term. Among others, we've talked about topics like code style, word embeddings, docker, or data donations in the past. We are very open topic-wise, and also alway welcome new faces! If you live in Munich or are around and interested in Computational Social Science, drop me an Email (p.schwabl@lmu.de)
 
