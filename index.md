@@ -174,7 +174,7 @@ Soon to come ;)
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src=" ./assets/img/bert_attention.png" class="teaser img-fluid z-depth-1">
-            <!-- <abbr class="badge">Master's Thesis</abbr> -->
+            <abbr class="badge">MA</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://epub.uni-regensburg.de/46308/">Classifying user information needs in cooking dialogues – an empirical performance evaluation of transformer networks </a></div>
@@ -195,7 +195,7 @@ Soon to come ;)
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src=" ./assets/img/tiebout-1.png" class="teaser img-fluid z-depth-1">
-            <!-- <abbr class="badge">Master's Thesis</abbr> -->
+            <abbr class="badge">BA</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://doi.org/10.5281/zenodo.7515125">Voting-with-the-feet: Eine Analyse des Tiebout-Modells mittels Agenten-basierter Modellierung [Voting-with-the-feet: an analysis of the Tiebout model using agent-based modeling] </a></div>
@@ -217,7 +217,7 @@ Soon to come ;)
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src=" ./assets/img/lmu_tau.png" class="teaser img-fluid z-depth-1">
-            <!-- <abbr class="badge">Master's Thesis</abbr> -->
+            <abbr class="badge">Talk</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">Political position scaling with word representations (from contextualized word embeddings)</div>
@@ -237,13 +237,13 @@ Soon to come ;)
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/lmu_tau.png" class="teaser img-fluid z-depth-1">
-            <!-- <abbr class="badge">Master's Thesis</abbr> -->
+    <img src=" ./assets/img/bidt_sprint_review.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">Talk</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title">Political position scaling with word representations (from contextualized word embeddings)</div>
+      <div class="title">Algorithmische Biases in Suchmaschinen im Bundestagswahlkampf 2021 [Algorithmic biases in search engines during the German federal election 2021]</div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
-      <div class="periodical"><em>Presented at sprint review of the <a href="https://en.bidt.digital/">Bavarian Research Institute for Digital Transformation</a>, 21 September 2021</em>
+      <div class="periodical"><em>Presented at the sprint review of the <a href="https://en.bidt.digital/">Bavarian Research Institute for Digital Transformation</a>, 21 September 2021</em>
       </div>
     <!-- <div class="links">
       <a href="https://epub.uni-regensburg.de/46308/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
