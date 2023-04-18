@@ -280,11 +280,10 @@ Soon to come ;)
 
 ### Conference Reviewer
 
-<ul style="margin:0 0 5px;">
-  <li><a href="https://www.icahdq.org/mpage/ICA23"><autocolor>International Communication Association conference 2023</autocolor></a></li>
-  <li><a href="https://www.dgpuk.de/de/methoden-der-publizistik-und-kommunikationswissenschaft.html"><autocolor>Jahrestagung der Fachgruppe Methoden der DGPuK 2022</autocolor></a></li>
-  <li><a href="https://www.icahdq.org/page/ICA2022"><autocolor>International Communication Association conference 2022</autocolor></a></li>
-</ul>
+
+- [International Communication Association conference 2023](https://www.icahdq.org/mpage/ICA23)
+- [Jahrestagung der Fachgruppe Methoden der DGPuK 2022](https://www.dgpuk.de/de/methoden-der-publizistik-und-kommunikationswissenschaft.html)
+- [International Communication Association conference 2022](https://www.icahdq.org/page/ICA2022)
 
 <h4 style="margin:0 10px 0;">Other</h4>
 
