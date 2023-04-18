@@ -136,6 +136,12 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 </div>
 </li>
 
+</ol>
+</div>
+
+
+<br>
+
 
 
 ### Preprints
@@ -164,6 +170,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 </ol>
 </div>
 
+<br>
 
 
 
