@@ -17,6 +17,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 ## News
 
+
 - **[April 2023]** I was awarded a scholarship (3000€ per year for 4 years) for my PhD project by the [Bavarian Research Institute for Digital Transformation](https://en.bidt.digital/). I will be part of the [bidt young talents program](https://www.bidt.digital/foerderprogramme/#graduate-center). 
 - **[April 2023]** I was awarded a scholarship (2000€) for a stay in Isreal by the [Bavarian Research Alliance](https://www.bayfor.org/en/). I will be in Israel in fall 2023.
 - **[January 2023]** Our (with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)) paper "From auditing to testing: Adequate experimental designs to study algorithmic content curation" has been accepted for [ICA 2023](https://www.icahdq.org/)
@@ -248,6 +249,7 @@ Soon to come ;)
 
 ## Teaching
 
+- Introduction to data analysis with SPSS at [LMU Munich](https://www.lmu.de/de/index.html), 2023
 - Political communication during the Ukraine war at [LMU Munich](https://www.lmu.de/de/index.html), 2022
 - Tutor for introduction to Communication Science at [LMU Munich](https://www.lmu.de/de/index.html), 2022
 - 3 Day course on machine learning at [Bamberg Graduate School of Social Science](https://www.uni-bamberg.de/en/bagss/), 04-06 April 2022
