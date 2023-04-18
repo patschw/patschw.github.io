@@ -172,7 +172,6 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 Soon to come ;)
 
- 
 ### Other
 
 <div class="publications">
