@@ -140,7 +140,6 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 ### Preprints
 
-### Preprints
 
 <div class="publications">
 <ol class="bibliography">
@@ -238,8 +237,6 @@ Soon to come ;)
 
 </ol>
 </div>
-
-</br>
 
 ## Teaching
 
