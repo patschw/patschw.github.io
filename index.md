@@ -4,7 +4,7 @@ layout: homepage
 
 ## Welcome!
 
-My name is Patrick, I am currently a Ph.D. candidate in [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) at the Department for Media and Communication at [Ludwig-Maximilians University](https://www.lmu.de/en/) in Germany.
+My name is Patrick, I am currently a Ph.D. candidate in [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) at the Department of Media and Communication at [Ludwig-Maximilians University](https://www.lmu.de/en/) in Germany.
 My Ph.D. thesis is supervised my [Prof. Mario Haim](https://www.en.ifkw.uni-muenchen.de/staff/full_professors/haim_mario/index.html) and [Prof. Barbara Plank](https://www.cis.uni-muenchen.de/personen/professoren/bplank/index.html).  
 In my thesis I use deep learning methods to find valid numerical measurments of political positions from textual data. In one of my fist [conference presentation](https://doi.org/10.5281/zenodo.7308196) and in [this preprint](https://doi.org/10.31235/osf.io/rb4sp) I sketch my ideas in more detail.
 
