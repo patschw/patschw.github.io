@@ -6,7 +6,7 @@ layout: homepage
 
 My name is Patrick, I am currently a first-year Ph.D. candidate in [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) at the Department for Media and Communication at [Ludwig-Maximilians University](https://www.lmu.de/en/) in Germany.
 My Ph.D. thesis is supervised my [Prof. Mario Haim](https://www.en.ifkw.uni-muenchen.de/staff/full_professors/haim_mario/index.html) and [Prof. Barbara Plank](https://www.cis.uni-muenchen.de/personen/professoren/bplank/index.html).  
-In my thesis I use deep learning methods to find valid numerical measurments of political positions from textual data. In one of my fist [conference presentation](https://doi.org/10.5281/zenodo.7308196) I sketch my ideas in more detail.
+In my thesis I use deep learning methods to find valid numerical measurments of political positions from textual data. In one of my fist [conference presentation](https://doi.org/10.5281/zenodo.7308196) and in [this preprint](https://doi.org/10.31235/osf.io/rb4sp) I sketch my ideas in more detail.
 
 
 ## Research Interests
@@ -144,29 +144,25 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 </ol>
 </div>
 
-<!--
-### Preprints and not yet published papers
+
+### Preprints
 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/ica_22.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">Preprint</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://doi.org/10.31235/osf.io/rb4sp">Computational scaling of political positions from textual data using word embeddings</a></div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
-      <!-- <div class="periodical"><em>72nd Annual International Communication Association Conference (72nd ICA Conference), Paris, 26-30 May 2022 (Session 3226, Part 6)</em> 
       </div>
     <div class="links">
       <a href="https://doi.org/10.31235/osf.io/rb4sp" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <!-- <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code & Data</a> 
-      <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> 
     </div>
   </div>
 </div>
 </li>
--->
+
 
 ### Journal papers
 
