@@ -64,7 +64,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 </div>
 
   
-### Conference posters, papers, and talks
+### Conference posters and papers
 
 <div class="publications">
 <ol class="bibliography">
