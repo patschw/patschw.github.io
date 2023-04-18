@@ -149,6 +149,9 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <div class="publications">
 <ol class="bibliography">
 
+
+
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -161,6 +164,8 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
       </div>
     <div class="links">
       <a href="https://doi.org/10.31235/osf.io/rb4sp" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+      <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
     </div>
   </div>
 </div>
