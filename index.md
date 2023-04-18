@@ -25,9 +25,10 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 - **[January 2023]** My first single-authored paper "Computational scaling of political positions from textual data using word embeddings" has been rejected for [ICA 2023](https://www.icahdq.org/). Maybe next time :) [I uploaded it as a preprint to SocArXiv](https://doi.org/10.31235/osf.io/rb4sp). If you're interested in word embeddings and political positions let me know what you think or what I could improve the paper. :)
 - **[October 2022]** I have been elected as student and early career preresentative of [ICA's Computational Methods Division](https://twitter.com/ica_cm). Thanks everyone for voting! :)
 - **[March 2021]** I started a full time position as Ph.D. stundent and research assistant at the chair for [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) in Munich
-- **[September-Febuary 2021]** I started a positions as a project worker in the project "Algorithmic biases in search engines in the 2021 German federal election campaign" with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)
+
+<!-- - **[September-Febuary 2021]** I started a positions as a project worker in the project "Algorithmic biases in search engines in the 2021 German federal election campaign" with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)
 - **[July-September 2021]** I started a positions as a project worker at [SPARTA](https://twitter.com/projekt_sparta) at the Bundeswehr University Munich with [Jasmin Riedl](https://www.unibw.de/politikwissenschaft/professuren/lehrstuhl-invr/riedl) and [Wiebke Drews](https://sites.google.com/view/wiebkedrews/)
-- **[March 2021]** I finished my Master's thesis on unsing Transformers in NLP for assisted cooking
+- **[March 2021]** I finished my Master's thesis on unsing Transformers in NLP for assisted cooking -->
 
 
 
