@@ -222,7 +222,28 @@ Soon to come ;)
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">Political position scaling with word representations (from contextualized word embeddings)</div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
-      <div class="periodical"><em>Presentation at the workshop on AI-Humanity-Society hosted by <a href="https://www.lmu.de/de/index.html">LMU Munich</a> and <a href="https://english.tau.ac.il/">TAU University, 05-09 December 2022</a></em>
+      <div class="periodical"><em>Presentation at the workshop on AI-Humanity-Society hosted by <a href="https://www.lmu.de/de/index.html">LMU Munich</a> and <a href="https://english.tau.ac.il/">TAU University</a>, 05-09 December 2022</em>
+      </div>
+    <!-- <div class="links">
+      <a href="https://epub.uni-regensburg.de/46308/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div> -->
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src=" ./assets/img/lmu_tau.png" class="teaser img-fluid z-depth-1">
+            <!-- <abbr class="badge">Master's Thesis</abbr> -->
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">Political position scaling with word representations (from contextualized word embeddings)</div>
+      <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
+      <div class="periodical"><em>Presented at sprint review of the <a href="https://en.bidt.digital/">Bavarian Research Institute for Digital Transformation</a>, 21 September 2021</em>
       </div>
     <!-- <div class="links">
       <a href="https://epub.uni-regensburg.de/46308/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
