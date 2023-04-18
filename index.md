@@ -162,7 +162,6 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
       <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
     </div>
   </div>
-</div>
 </li>
 
 
