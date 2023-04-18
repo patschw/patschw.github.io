@@ -271,14 +271,14 @@ Soon to come ;)
 
 ## Services
 
-<h4 style="margin:0 10px 0;">Organizations</h4>
+### Organizations
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.icahdq.org/group/compmethds"><autocolor>Student and early career preresentative, Computational Methods Division of the International Communication Association; term starting May 2023</autocolor></a></li>
 </ul>
 
 
-<h4 style="margin:0 10px 0;">Conference Reviewer</h4>
+### Conference Reviewer
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.icahdq.org/mpage/ICA23"><autocolor>International Communication Association conference 2023</autocolor></a></li>
