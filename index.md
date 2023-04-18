@@ -62,8 +62,6 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 </ol>
 </div>
 
-
-<br>
   
 ### Conference posters, papers, and talks
 
@@ -140,10 +138,6 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 </div>
 
 
-<br>
-
-
-
 ### Preprints
 
 <div class="publications">
@@ -173,19 +167,10 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 
 </ol>
-</div>
-
-<br>
-
-
-
 
 ### Journal papers
 
 Soon to come ;)
-
-
-### 
 
  
 ### Other
