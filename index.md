@@ -242,7 +242,7 @@ Soon to come ;)
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">Algorithmische Biases in Suchmaschinen im Bundestagswahlkampf 2021 [Algorithmic biases in search engines during the German federal election 2021]</div>
-      <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
+      <div class="author"><strong><b>Patrick Schwabl,  Julian Unkel, Mario Haim</b></strong></div>
       <div class="periodical"><em>Presented at the sprint review of the <a href="https://en.bidt.digital/">Bavarian Research Institute for Digital Transformation</a>, 21 September 2021</em>
       </div>
     <!-- <div class="links">
