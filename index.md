@@ -140,6 +140,9 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 ### Preprints
 
+<div class="publications">
+<ol class="bibliography">
+
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
