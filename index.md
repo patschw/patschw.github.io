@@ -20,6 +20,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 - **[April 2023]** I was awarded a scholarship (3000€ per year for 4 years) for my PhD project by the [Bavarian Research Institute for Digital Transformation](https://en.bidt.digital/). I will be part of the [bidt young talents program](https://www.bidt.digital/foerderprogramme/#graduate-center). 
 - **[April 2023]** I was awarded a scholarship (2000€) for a stay in Isreal by the [Bavarian Research Alliance](https://www.bayfor.org/en/). I will be in Israel in fall 2023.
+- **[March 2023]** My abstract and presentation on "Computational scaling of political positions from textual data using word embeddings" was accepted for the [CompText conference 2023](https://www.comptextconference.org/).
 - **[January 2023]** Our (with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)) paper "From auditing to testing: Adequate experimental designs to study algorithmic content curation" has been accepted for [ICA 2023](https://www.icahdq.org/)
 - **[January 2023]** My first single-authored paper "Computational scaling of political positions from textual data using word embeddings" has been rejected for [ICA 2023](https://www.icahdq.org/). Maybe next time :) [I uploaded it as a preprint to SocArXiv](https://doi.org/10.31235/osf.io/rb4sp). If you're interested in word embeddings and political positions let me know what you think or what I could improve the paper. :)
 - **[October 2022]** I have been elected as student and early career preresentative of [ICA's Computational Methods Division](https://twitter.com/ica_cm). Thanks everyone for voting! :)
@@ -274,4 +275,11 @@ Soon to come ;)
   <li><a href="https://www.icahdq.org/page/ICA2022"><autocolor>International Communication Association conference 2022</autocolor></a></li>
 </ul>
 
+<h4 style="margin:0 10px 0;">Other</h4>
+
+I co-host and organize a in-person **coding club** (aka computational exchange on wednesday) three times every term. Among others, we've talked about topics like code style, word embeddings, docker, or data donations in the past. We are very open topic-wise, and also alway welcome new faces! If you live in Munich or are around and interested in Computational Social Science, drop me an Email (p.schwabl@lmu.de)
+
 ## Funding and scholarships
+
+- 3000€ per year for four years as part of the bidt your talents program by the [Bavarian Research Institute for Digital Transformation](https://en.bidt.digital/)
+- 2000€ for a research stay in Isreal by the [Bavarian Research Alliance](https://www.bayfor.org/en/)
