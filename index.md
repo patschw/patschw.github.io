@@ -168,8 +168,56 @@ Soon to come ;)
 
 ### Other
 
+
+
+
+
 <div class="publications">
 <ol class="bibliography">
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src=" ./assets/img/nlp_munich_napoko.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">Talk</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">How (not) to measure political positions using contextual word embeddings in multi-party systems</div>
+      <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
+      <div class="periodical"><em>Presented to NLP Munich <a href="https://munich-nlp.github.io/">NLP Munich</a>, 20 April 2023</em>
+      </div>
+    <div class="links">
+      <a href="https://docs.google.com/presentation/d/1QhACyJ5be8xIf1NVZZ3TDOD8s1oTDTNX/edit?usp=sharing&ouid=110154051659180586664&rtpof=true&sd=true" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+<!--       <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+<!--       <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src=" ./assets/img/nlp_munich_napoko.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">Talk</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">How (not) to measure political positions using contextual word embeddings in multi-party systems</div>
+      <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
+      <div class="periodical"><em>Presented at Lunchbreak event of the <a href="http://napoko.de/">Junior Scholar Network Political Communication (NaPoKo)</a>, 19 April 2023</em>
+      </div>
+    <div class="links">
+      <a href="https://docs.google.com/presentation/d/1QhACyJ5be8xIf1NVZZ3TDOD8s1oTDTNX/edit?usp=sharing&ouid=110154051659180586664&rtpof=true&sd=true" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+<!--       <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a> -->
+<!--       <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
 
 <li>
 <div class="pub-row">
