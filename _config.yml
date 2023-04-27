@@ -11,7 +11,7 @@ canonical: https://www.ls1.ifkw.uni-muenchen.de/personen/wiss_ma/schwabl/index.h
 description: Patrick Schwabl is a Ph.D. candidate at the chair for Computational Communication Research at LMU Munich. His research lies in natural language processing, word embeddings, and political communication.
 
 # The option is used to enable the MPI Informatics template.
-enable_mpi_logo: true
+enable_mpi_logo: no
 
 # Links
 google_scholar: https://scholar.google.com/citations?user=B7jHLRwAAAAJ&hl
