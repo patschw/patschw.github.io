@@ -69,7 +69,6 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <ol class="bibliography">
 
 
-
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -307,8 +306,9 @@ Soon to come ;)
 </ol>
 </div>
 
-## Teaching
+## University teaching & other courses
 
+- Crash course introduction to machine learning at the [preconference hackathon](https://www.hackingcommsci.org/) during [ICA 2023](https://www.icahdq.org/mpage/ICA23)
 - Introduction to data analysis with SPSS at [LMU Munich](https://www.lmu.de/de/index.html), 2023
 - Political communication during the Ukraine war at [LMU Munich](https://www.lmu.de/de/index.html), 2022
 - Tutor for introduction to Communication Science at [LMU Munich](https://www.lmu.de/de/index.html), 2022
