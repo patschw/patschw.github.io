@@ -16,16 +16,19 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 ## News
 
-
+- *[January 2024]** I participated in the Winter [Workshop on Complex Systems](https://wwcs2024.github.io/) in the Spanish beautiful Pyrenees.
+- **[September - October 2023]** I did a research stay in Jerusalem funded by [Bavarian Research Alliance](https://www.bayfor.org/en/). Thank's a lot again!
+- **[June 2023]** - I went to ICA conference 2023 in Toronto and presented some of my work (see below).
+- **[May 2023]** - I went to Comptext conference 2023 in Glasgow and presented some of my work (see below).
 - **[April 2023]** I was awarded a scholarship (3000€ per year for 4 years) for my PhD project by the [Bavarian Research Institute for Digital Transformation](https://en.bidt.digital/). I will be part of the [bidt young talents program](https://www.bidt.digital/foerderprogramme/#graduate-center). 
 - **[April 2023]** I was awarded a scholarship (2000€) for a stay in Isreal by the [Bavarian Research Alliance](https://www.bayfor.org/en/). I will be in Israel in fall 2023.
-- **[March 2023]** My abstract and presentation on "Computational scaling of political positions from textual data using word embeddings" was accepted for the [CompText conference 2023](https://www.comptextconference.org/).
+
+
+
+<!-- - **[March 2023]** My abstract and presentation on "Computational scaling of political positions from textual data using word embeddings" was accepted for the [CompText conference 2023](https://www.comptextconference.org/).
 - **[January 2023]** Our (with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)) paper "From auditing to testing: Adequate experimental designs to study algorithmic content curation" has been accepted for [ICA 2023](https://www.icahdq.org/)
 - **[January 2023]** My first single-authored paper "Computational scaling of political positions from textual data using word embeddings" has been rejected for [ICA 2023](https://www.icahdq.org/). Maybe next time :) [I uploaded it as a preprint to SocArXiv](https://doi.org/10.31235/osf.io/rb4sp). If you're interested in word embeddings and political positions let me know what you think or what I could improve the paper. :)
-- **[October 2022]** I have been elected as student and early career preresentative of [ICA's Computational Methods Division](https://twitter.com/ica_cm). Thanks everyone for voting! :)
-- **[March 2021]** I started a full time position as Ph.D. stundent and research assistant at the chair for [Computational Communication Research](https://www.en.ifkw.uni-muenchen.de/research/chairs/haim/profile/index.html) in Munich
-
-<!-- - **[September-Febuary 2021]** I started a positions as a project worker in the project "Algorithmic biases in search engines in the 2021 German federal election campaign" with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)
+ - **[September-Febuary 2021]** I started a positions as a project worker in the project "Algorithmic biases in search engines in the 2021 German federal election campaign" with [Mario Haim](https://haim.it/academia/) and [Julian Unkel](https://julianunkel.com/)
 - **[July-September 2021]** I started a positions as a project worker at [SPARTA](https://twitter.com/projekt_sparta) at the Bundeswehr University Munich with [Jasmin Riedl](https://www.unibw.de/politikwissenschaft/professuren/lehrstuhl-invr/riedl) and [Wiebke Drews](https://sites.google.com/view/wiebkedrews/)
 - **[March 2021]** I finished my Master's thesis on unsing Transformers in NLP for assisted cooking -->
 
@@ -319,12 +322,13 @@ Soon to come ;)
 
 ## Services
 
-### Organizations
+### Honorary offices
 
-- Student and early career preresentative, [Computational Methods Division](https://www.icahdq.org/group/compmethds) of the International Communication Association; term starting May 2023
+- Student and early career preresentative, [Computational Methods Division](https://www.icahdq.org/group/compmethds) of the International Communication Association
 
 ### Conference Reviewer
 
+- [International Communication Association conference 2024](https://www.icahdq.org/mpage/ica24)
 - [International Communication Association conference 2023](https://www.icahdq.org/mpage/ICA23)
 - [Jahrestagung der Fachgruppe Methoden der DGPuK 2022](https://www.dgpuk.de/de/methoden-der-publizistik-und-kommunikationswissenschaft.html)
 - [International Communication Association conference 2022](https://www.icahdq.org/page/ICA2022)
