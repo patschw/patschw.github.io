@@ -116,6 +116,26 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <!--<img src=" ./assets/img/abt_ica23.png" class="teaser img-fluid z-depth-1"> -->
+            <abbr class="badge">COMPTEXT23</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://doi.org/10.31235/osf.io/rb4sp">Computational scaling of political positions from textual data using word embeddings</a></div>
+      <div class="author"><strong><b>Patrick Schwabl</b>, Mario Haim, Julian Unkel</strong></div>
+      <div class="periodical"><em>5th ANNUAL COMPTEXT Conference 2023, Glasgow, 12-13 May 2023 (Panel 17)</em>
+      </div>
+    <div class="links">
+      <a href="https://doi.org/10.31235/osf.io/rb4sp" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src=" ./assets/img/dgpuk_methoden_22.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">DGPuK Methods Conference 22</abbr>
   </div>
