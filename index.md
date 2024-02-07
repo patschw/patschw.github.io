@@ -64,8 +64,6 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 
 
-<div class="publications">
-<ol class="bibliography">
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
@@ -90,6 +88,16 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
   
 ### Conference posters and papers
+
+
+doi.org/10.17605/OSF.IO/UDYCH
+
+
+
+
+
+
+
 
 <div class="publications">
 <ol class="bibliography">
