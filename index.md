@@ -105,7 +105,7 @@ doi.org/10.17605/OSF.IO/UDYCH
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/ica_22.png" class="teaser img-fluid z-depth-1">
+    <img src=" ./assets/img/abt_ica23.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">ICA23</abbr>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
