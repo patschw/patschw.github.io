@@ -41,6 +41,33 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <!-- <h2 id="publications" style="margin: 2px 0px -15px;">Publications<temp style="font-size:15px;">[</temp><a href="https://scholar.google.com/citations?user=B7jHLRwAAAAJ&hl" target="_blank" style="font-size:15px;">Google Scholar</a><temp style="font-size:15px;">]</temp><temp style="font-size:15px;">
 <h3 id="publications" style="margin: 2px 0px -15px;">Book chapters<temp style="font-size:15px;"> -->
 
+
+<div class="publications">
+<ol class="bibliography">
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src=" ./assets/img/word_embeddings_for_survey_analysis.png" class="teaser img-fluid z-depth-1">
+            <!-- <abbr class="badge">TPAMI</abbr> -->
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <<div class="title">Python for Text-as-Data: Using Word Embeddings to Assess the Diversity of Election-Related Search Queries<</div>
+      <div class="author"><strong><b>Patrick Schwabl</b>, Valerie Hase</strong></div>
+      <div class="periodical"><em>In Bernauer, J. (ed.), Doing Quantitative Text Analysis with R: Scraping, Prepar-ing, Visualising and Modelling Data. Sage, 2024</em>
+      </div>
+    <!--<div class="links">
+      <a href="https://link.springer.com/chapter/10.1007/978-3-658-38967-3_11" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article</a>
+      <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code & Data</a>
+       <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+    </div>
+  </div>
+</div>
+</li>
+</ol>
+</div>
+
+
+
 <div class="publications">
 <ol class="bibliography">
 <li>
