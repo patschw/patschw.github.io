@@ -48,7 +48,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/google_paper.png" class="teaser img-fluid z-depth-1">
+    <img src=" ./assets/img/word_embeddings_for_survey_analysis.png" class="teaser img-fluid z-depth-1">
             <!-- <abbr class="badge">TPAMI</abbr> -->
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
