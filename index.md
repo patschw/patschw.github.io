@@ -42,6 +42,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <h3 id="publications" style="margin: 2px 0px -15px;">Book chapters<temp style="font-size:15px;"> -->
 
 
+
 <div class="publications">
 <ol class="bibliography">
 <li>
@@ -51,8 +52,8 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
             <!-- <abbr class="badge">TPAMI</abbr> -->
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-658-38967-3_11">Vielfalt bei Google? Vielzahl, Ausgewogenheit und Verschiedenheit wahlbezogener Suchergebnisse [Diversity on Google? Multiplicity, balance and diversity of election-related search results]</a></div>
-      <div class="author"><strong><b>Patrick Schwabl</b>, Julian Unkel, Mario Haim</strong></div>
+      <div class="title">Python for Text-as-Data: Using Word Embeddings to Assess the Diversity of Election-Related Search Queries</div>
+      <div class="author"><strong><b>Patrick Schwabl</b>, Valerie Hase</strong></div>
       <div class="periodical"><em>In C. Holtz-Bacha (Ed.), Die (Massen-)Medien im Wahlkampf: Die Bundestagswahl 2021. Wiesbaden: Springer V, 2023</em>
       </div>
     <div class="links">
