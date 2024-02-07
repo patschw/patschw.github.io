@@ -59,8 +59,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   </div>
 </div>
 </li>
-</ol>
-</div>
+
 
 
 
