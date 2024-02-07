@@ -88,16 +88,6 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   
 ### Conference posters and papers
 
-
-doi.org/10.17605/OSF.IO/UDYCH
-
-
-
-
-
-
-
-
 <div class="publications">
 <ol class="bibliography">
 
