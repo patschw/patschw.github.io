@@ -56,11 +56,6 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
       <div class="author"><strong><b>Patrick Schwabl</b>, Valerie Hase</strong></div>
       <div class="periodical"><em> In Bernauer, J. (ed.), Doing Quantitative Text Analysis with R: Scraping, Prepar-ing, Visualising and Modelling Data. London: Sage, in press</em>
       </div>
-    <div class="links">
-      <a href="https://link.springer.com/chapter/10.1007/978-3-658-38967-3_11" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article</a>
-      <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code & Data</a>
-      <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
-    </div>
   </div>
 </div>
 </li>
