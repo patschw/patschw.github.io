@@ -47,24 +47,24 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src=" ./assets/img/word_embeddings_for_survey_analysis.png" class="teaser img-fluid z-depth-1">
+    <img src=" ./assets/img/google_paper.png" class="teaser img-fluid z-depth-1">
             <!-- <abbr class="badge">TPAMI</abbr> -->
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <<div class="title">Python for Text-as-Data: Using Word Embeddings to Assess the Diversity of Election-Related Search Queries</div>
-      <div class="author"><strong><b>Patrick Schwabl</b>, Valerie Hase</strong></div>
-      <div class="periodical"><em>In Bernauer, J. (ed.), Doing Quantitative Text Analysis with R: Scraping, Preparing, Visualising and Modelling Data. London: Sage, <b>in press</b></em>
+      <div class="title"><a href="https://link.springer.com/chapter/10.1007/978-3-658-38967-3_11">Vielfalt bei Google? Vielzahl, Ausgewogenheit und Verschiedenheit wahlbezogener Suchergebnisse [Diversity on Google? Multiplicity, balance and diversity of election-related search results]</a></div>
+      <div class="author"><strong><b>Patrick Schwabl</b>, Julian Unkel, Mario Haim</strong></div>
+      <div class="periodical"><em>In C. Holtz-Bacha (Ed.), Die (Massen-)Medien im Wahlkampf: Die Bundestagswahl 2021. Wiesbaden: Springer V, 2023</em>
       </div>
-    <!--<div class="links">
+    <div class="links">
       <a href="https://link.springer.com/chapter/10.1007/978-3-658-38967-3_11" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article</a>
       <a href="https://osf.io/438mc" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code & Data</a>
-       <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+      <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
     </div>
   </div>
 </div>
 </li>
 </ol>
-<!--</div> -->
+</div>
 
 
 
