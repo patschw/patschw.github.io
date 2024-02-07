@@ -247,6 +247,23 @@ Soon to come ;)
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">How (not) to measure political positions using contextual word embeddings in multi-party systems</div>
       <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
+      <div class="periodical"><em>Presented at a Workshop of the <a href="https://www.cas.lmu.de/de/programme/cas-research-groups/words-to-numbers.html">Words to Numbers Reseach Group:</a> Using NLP Methods for Research in the Social Sciences and Humanities, Munich, 17-20 July 2023</em>
+      </div>
+    <div class="links">
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+            <abbr class="badge">Talk</abbr>
+  </div>
+  <p>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title">How (not) to measure political positions using contextual word embeddings in multi-party systems</div>
+      <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
       <div class="periodical"><em>Presented to NLP Munich <a href="https://munich-nlp.github.io/">NLP Munich</a>, 20 April 2023</em>
       </div>
     <div class="links">
