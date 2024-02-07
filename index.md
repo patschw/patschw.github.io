@@ -51,7 +51,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
             <!-- <abbr class="badge">TPAMI</abbr> -->
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-      <<div class="title">Python for Text-as-Data: Using Word Embeddings to Assess the Diversity of Election-Related Search Queries<</div>
+      <<div class="title">Python for Text-as-Data: Using Word Embeddings to Assess the Diversity of Election-Related Search Queries</div>
       <div class="author"><strong><b>Patrick Schwabl</b>, Valerie Hase</strong></div>
       <div class="periodical"><em>In Bernauer, J. (ed.), Doing Quantitative Text Analysis with R: Scraping, Preparing, Visualising and Modelling Data. London: Sage, <b>in press</b></em>
       </div>
