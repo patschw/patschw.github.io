@@ -53,7 +53,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <<div class="title">Python for Text-as-Data: Using Word Embeddings to Assess the Diversity of Election-Related Search Queries<</div>
       <div class="author"><strong><b>Patrick Schwabl</b>, Valerie Hase</strong></div>
-      <div class="periodical"><em>In Bernauer, J. (ed.), Doing Quantitative Text Analysis with R: Scraping, Prepar-ing, Visualising and Modelling Data. London: Sage, 2024</em>
+      <div class="periodical"><em>In Bernauer, J. (ed.), Doing Quantitative Text Analysis with R: Scraping, Preparing, Visualising and Modelling Data. London: Sage, 2024</em>
       </div>
     <!--<div class="links">
       <a href="https://link.springer.com/chapter/10.1007/978-3-658-38967-3_11" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Article</a>
