@@ -121,7 +121,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="https://doi.org/10.31235/osf.io/rb4sp">Computational scaling of political positions from textual data using word embeddings</a></div>
-      <div class="author"><strong><b>Patrick Schwabl</b>, Mario Haim, Julian Unkel</strong></div>
+      <div class="author"><strong><b>Patrick Schwabl</b></strong></div>
       <div class="periodical"><em>5th ANNUAL COMPTEXT Conference 2023, Glasgow, 12-13 May 2023 (Panel 17)</em>
       </div>
     <div class="links">
