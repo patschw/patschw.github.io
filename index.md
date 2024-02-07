@@ -242,6 +242,7 @@ Soon to come ;)
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
             <abbr class="badge">Talk</abbr>
+            <p>
   </div>
   <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
       <div class="title">How (not) to measure political positions using contextual word embeddings in multi-party systems</div>
