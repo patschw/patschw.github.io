@@ -16,7 +16,7 @@ In my thesis I use deep learning methods to find valid numerical measurments of 
 
 ## News
 
-- **[January 2024]** I participated in the Winter [Workshop on Complex Systems](https://wwcs2024.github.io/) in the Spanish beautiful Pyrenees.
+- **[January 2024]** I participated in the Winter [Workshop on Complex Systems](https://wwcs2024.github.io/) in the Spanish Pyrenees.
 - **[September - October 2023]** I did a research stay in Jerusalem funded by the [Bavarian Research Alliance](https://www.bayfor.org/en/). Thank's a lot again!
 - **[June 2023]** - I went to ICA conference 2023 in Toronto and presented some of my work (see below).
 - **[May 2023]** - I went to Comptext conference 2023 in Glasgow and presented some of my work (see below).
