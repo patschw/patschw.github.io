@@ -105,6 +105,27 @@ doi.org/10.17605/OSF.IO/UDYCH
 <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src=" ./assets/img/ica_22.png" class="teaser img-fluid z-depth-1">
+            <abbr class="badge">ICA23</abbr>
+  </div>
+  <div id="peng2021copo" class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
+      <div class="title"><a href="https://doi.org/10.17605/OSF.IO/UDYCH">From auditing to testing: Adequate experimental designs to study algorithmic content curation</a></div>
+      <div class="author"><strong><b>Patrick Schwabl</b>, Mario Haim, Julian Unkel</strong></div>
+      <div class="periodical"><em>73rd Annual International Communication Association Conference (73nd ICA Conference), Toronto, 25-29 May 2023 (Session 2311, Part 5)</em>
+      </div>
+    <div class="links">
+      <a href="https://doi.org/10.17605/OSF.IO/UDYCH" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://docs.google.com/presentation/d/1Yy08LcVyrlPwxi6bhCPVx5pfGM1oSSdM1GFwytmZyx0/edit?usp=sharing" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Presentation</a>
+      <!-- <a href="https://bib.yliu.me/TPAMI22.txt" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a> -->
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src=" ./assets/img/dgpuk_methoden_22.png" class="teaser img-fluid z-depth-1">
             <abbr class="badge">DGPuK Methods Conference 22</abbr>
   </div>
