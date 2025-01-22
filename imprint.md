@@ -4,10 +4,10 @@ layout: homepage
 
 This website is run and maintained by:  
   
-Patrick Schwabl  
+Patrick Parschan  
 Distlhofweg 31  
 81369 München  
-patrick.schwabl@ifkw.lmu.de  
+patrick.parschan@web.de  
 
   
   

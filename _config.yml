@@ -1,14 +1,14 @@
 # Basic Information 
-title: Patrick Schwabl
+title: Patrick Parschan
 position: Ph.D. Candidate
 affiliation: Department of Media and Communication at LMU Munich
 affiliation_link: https://www.en.ifkw.uni-muenchen.de/index.html
-email: p.schwabl(at)lmu.de
+email: p.parschan(at)lmu.de
 
 # Search Engine Optimization (SEO)
-keywords: patrick schwabl, schwabl patrick, schwabl, patrick, natural language processing, political position, scaling, lmu, munich, lmu munich, ifkw
+keywords: patrick parschan, parschan patrick, parschan, patrick schwabl, schwabl patrick, schwabl, patrick, natural language processing, political position, scaling, lmu, munich, lmu munich, ifkw
 canonical: https://www.ls1.ifkw.uni-muenchen.de/personen/wiss_ma/schwabl/index.html
-description: Patrick Schwabl is a Ph.D. candidate at the chair for Computational Communication Research at LMU Munich. His research lies in natural language processing, word embeddings, and political communication.
+description: Patrick Parschan is a Ph.D. candidate at the chair for Computational Communication Research at LMU Munich. His research lies in natural language processing, word embeddings, and political communication.
 
 # The option is used to enable the MPI Informatics template.
 enable_mpi_logo: no
@@ -17,8 +17,8 @@ enable_mpi_logo: no
 google_scholar: https://scholar.google.com/citations?user=B7jHLRwAAAAJ&hl
 # cv_link: https://files.yliu.me/Yaoyao_Liu_Curriculum_Vitae.pdf
 github_link: https://github.com/patschw
-linkedin: https://linkedin.com/in/patrick-schwabl-6b732a270
-twitter: https://twitter.com/patrickschwabl/
+linkedin: https://www.linkedin.com/in/patrick-parschan-schwabl-6b732a270/
+twitter: https://twitter.com/patrickparschan/
 
 # Images 
 avatar: https://www.ls1.ifkw.uni-muenchen.de/bilder/web_bilder_m/patrick.JPG
